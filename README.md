@@ -64,7 +64,7 @@
 Open to internships, collaborations, and learning opportunities.  
 Let’s build something amazing!
 
-📩 **Email**: [mathankumarpalani2006@gmail.com](mailto:C.harshinishree@gmail.com)  
+📩 **Email**: [C.harshinishree@gmail.com](mailto:C.harshinishree@gmail.com)  
 🔗 **LinkedIn**: [Harshini shree C](https://www.linkedin.com/in/harshini-shree-c-787a7831b/)  
 🌐 **Portfolio**: [Harshini's Portfolio]()
 
