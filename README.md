@@ -54,7 +54,6 @@
 
 ## 📊 GitHub Stats
 
-![Mathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chs018&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chs018&layout=compact&theme=default&hide_border=true)
 
 ---
