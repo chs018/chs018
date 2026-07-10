@@ -5,7 +5,7 @@
 🎓 B.Tech Computer Science & Engineering Student  
 🏫 SRM Institute of Science and Technology (SRMIST)  
 💡 Passionate about AI, Machine Learning, Full Stack Development & Cloud Computing  
-🚀 Building impactful AI solutions for healthcare, cybersecurity, and automation  
+🚀 Building impactful AI solutions for healthcare, cybersecurity, Fintech and automation  
 🌱 Currently learning LLMs, Agentic AI, System Design & Advanced DSA
 
 ---
