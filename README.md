@@ -1,84 +1,150 @@
-# 🧑🏻‍💻 Harshini Shree C
+# Hi there 👋, I'm Harshini Shree Chandrasekar
 
-<div align="center">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-**Full-Stack Developer in Progress** | React • Node.js • Python • MongoDB
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshini-shree-c-787a7831b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:C.harshinishree@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/chs018)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)]()
-
-</div>
+🎓 B.Tech Computer Science & Engineering Student  
+🏫 SRM Institute of Science and Technology (SRMIST)  
+💡 Passionate about AI, Machine Learning, Full Stack Development & Cloud Computing  
+🚀 Building impactful AI solutions for healthcare, cybersecurity, and automation  
+🌱 Currently learning LLMs, Agentic AI, System Design & Advanced DSA
 
 ---
 
-## 🎯 About Me
+## 🚀 About Me
 
-- 🎓 B.Tech CSE student at SRM University 
-- 💻 Exploring full-stack development with real-world projects  
-- 🌱 Currently diving into TypeScript, Next.js & scalable web systems  
-- ⚡ Passionate about tech that improves daily life  
-- 🧠 On a journey to become a top-tier developer by 2028  
-
----
-
-## 💻 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+- 💻 Software Engineering & AI Enthusiast
+- 🤖 Interested in Artificial Intelligence, Machine Learning & Generative AI
+- ☁️ AWS & Google Cloud Learner
+- 🧠 Solving Data Structures & Algorithms problems
+- 🏆 Active Hackathon Participant
+- 📚 Always learning new technologies
 
 ---
 
-## 🚀 Featured Projects
+# 🛠 Tech Stack
 
-**[Force India – Flight Booking App](https://github.com/yourusername/force-india)**  
-✈️ Real-time flight booking with authentication and booking history  
-> *HTML • CSS • JavaScript • Node.js • Express • MongoDB*
+### Programming Languages
 
-**[Spirit – Online Clothing Store](https://github.com/yourusername/spirit)**  
-👕 E-commerce site with product filters, shopping cart, and checkout  
-> *React • Tailwind CSS • Firebase*
-
-**[Complaint Management System](https://github.com/yourusername/complaint-system)**  
-🛠️ Complaint submission and tracking platform with admin dashboard  
-> *Python • Flask • SQLite*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+### Frontend
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chs018&layout=compact&theme=default&hide_border=true)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ---
 
-## 🤝 Let's Connect
+### Backend
 
-Open to internships, collaborations, and learning opportunities.  
-Let’s build something amazing!
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
-📩 **Email**: [C.harshinishree@gmail.com](mailto:C.harshinishree@gmail.com)  
-🔗 **LinkedIn**: [Harshini shree C](https://www.linkedin.com/in/harshini-shree-c-787a7831b/)  
-🌐 **Portfolio**: [Harshini's Portfolio]()
+---
+
+### AI / ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
+
+---
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase)
+
+---
+
+### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+---
+
+# 🚀 Featured Projects
+
+### 🏥 Infinity Helix
+AI-powered medical report analysis platform using FastAPI, PostgreSQL, BioBERT, OCR, multilingual support and LLM reasoning.
+
+---
+
+### 🛡️ Network Traffic Analyzer & Intrusion Detection System
+Real-time network monitoring dashboard with anomaly detection, packet inspection and security analytics.
+
+---
+
+### 👁️ Diabetic Retinopathy Detection
+Deep learning web application using EfficientNet for retinal disease detection.
+
+---
+
+### 📉 Telecom Customer Churn Prediction
+Machine Learning project using Random Forest, Gradient Boosting and Logistic Regression.
 
 
-<!--
-**mathan527/mathan527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🏆 Achievements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🥇 Hack4Health 2026 Runner-Up
+
+🏅 Samsung Prism Selected
+
+🏅 Synaptic Frontier IITM - Top 10 Finalist
+
+
+---
+
+# 📜 Certifications
+
+- AWS AI/ML
+- Google Cloud Skill Badges
+- NPTEL OOP using Java
+- NPTEL Database Management Systems
+- Coursera Generative AI
+- Coding Ninjas
+- Python Programming
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+
+---
+
+## 🌐 Connect with Me
+
+[![https://www.linkedin.com/in/harshini-shree-c/](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+---
+
+## 💡 Quote
+
+> "Code with purpose. Learn continuously. Build solutions that create impact."
+
+⭐ Thanks for visiting my profile!
