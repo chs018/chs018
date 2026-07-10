@@ -96,6 +96,9 @@ Deep learning web application using EfficientNet for retinal disease detection.
 ### 📉 Telecom Customer Churn Prediction
 Machine Learning project using Random Forest, Gradient Boosting and Logistic Regression.
 
+---
+### 🔥Insurnova
+Real Time Insurance guard for Gig worker in trouble because of natural calamities.
 
 
 # 🏆 Achievements
