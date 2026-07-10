@@ -119,13 +119,6 @@ Machine Learning project using Random Forest, Gradient Boosting and Logistic Reg
 - Coding Ninjas
 - Python Programming
 
----
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
-
----
 
 ## 🌐 Connect with Me
 
