@@ -39,6 +39,10 @@ Software Engineer • AI/ML Developer • Backend Developer • Open Source Enth
 
 > I love building AI systems that solve real-world problems.
 
+<p align="right">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif" width="380"/>
+</p>
+
 ---
 
 # 🌐 Connect With Me
