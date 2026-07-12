@@ -1,57 +1,55 @@
 <div align="center">
 
-# Hi 👋, I'm **Harshini Shree C**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,100:00C9FF&text=Harshini%20Shree%20C&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20|%20AI%20Researcher%20|%20Backend%20Developer&descAlignY=58"/>
 
-### 💻 Software Engineer • 🤖 AI/ML Developer • ⚡ Backend Developer • 🌟 Open Source Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=850&lines=AI+Researcher;Machine+Learning+Developer;Backend+Engineer;FastAPI+Developer;Open+Source+Enthusiast;Always+Learning+Something+New"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=AI+Researcher;Machine+Learning+Developer;Backend+Developer;FastAPI+Developer;Building+Real-World+AI+Solutions;Always+Learning+New+Technologies!" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding Girl" width="380" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Images/Anime%20Girl.gif">
+<div align="center">
 
-## 🚀 About Me
+### 👩🏻‍💻 Coding Girl
 
-🎓 **B.Tech Computer Science Engineering**
+<img width="420" src="./assets/coding-girl.gif">
 
-🏫 **SRM Institute of Science and Technology**
+</div>
 
-🧠 **AI Research Intern | Machine Learning Developer**
+> **💡 Download your favorite coding girl GIF and save it as `assets/coding-girl.gif`.**
+> This is the most reliable approach because GitHub sometimes blocks external GIFs.
 
-🏆 **Google Big Code 2026 – Top 1500**
+---
 
-💻 Passionate Backend Developer building scalable AI-powered applications.
+# 🚀 About Me
 
-🌱 **Currently Learning**
+🎓 B.Tech Computer Science Engineering @ **SRM Institute of Science and Technology**
+
+🧠 AI Research Intern
+
+💻 Backend Developer
+
+🏆 Google Big Code 2026 — **Top 1500**
+
+🌱 Currently Learning
 
 - 🤖 Agentic AI
-- 🧠 Large Language Models (LLMs)
-- ⚙️ MLOps
-- ☁️ Distributed Systems
+- 🧠 Large Language Models
+- ☁️ MLOps
+- ⚙️ Distributed Systems
 - 🏗️ System Design
 
-💡 **Areas of Interest**
+---
 
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Natural Language Processing
-- Backend Engineering
-- Open Source
+# 💼 Current Focus
 
-⚡ **Fun Fact**
-
-> I love building AI systems that solve real-world problems.
-
-<br clear="right"/>
+- Building AI-powered applications
+- Backend Engineering with FastAPI
+- NLP & Computer Vision
+- Research in Machine Learning
+- Open Source Contributions
 
 ---
 
@@ -60,19 +58,19 @@
 <p align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:c.harshinishree@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://leetcode.com/YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" width="48">
 </a>
 
 </p>
@@ -81,79 +79,46 @@
 
 # 💻 Tech Stack
 
-### 👨‍💻 Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript"/>
 
-### ⚙️ Backend
-
-<p>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,flask"/>
-</p>
 
-### 🎨 Frontend
-
-<p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-</p>
 
-### 🗄️ Databases
-
-<p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase"/>
-</p>
 
-### 🤖 AI / ML
-
-<p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
-</p>
 
-<p>
-<img src="https://img.shields.io/badge/BioBERT-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge"/>
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
 <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,linux,postman"/>
+
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🩺 Infinite Helix
+### 🩺 Infinite Helix
 
-AI-powered Medical Report Analysis Platform
-
-- 📄 OCR-based medical report extraction
-- 🧠 BioBERT-powered NLP
-- ⚡ FastAPI Backend
-- 🗄 PostgreSQL
-- 📊 Clinical Risk Prediction
+- OCR + BioBERT Medical NLP
+- FastAPI
+- PostgreSQL
+- AI-based Clinical Risk Prediction
 
 ---
 
-## 🛡️ InsurNova
+### 🛡️ InsurNova
 
-AI-driven Parametric Insurance Platform
-
-- ⚛️ React Frontend
-- 🚀 Node.js Backend
-- 🤖 Isolation Forest Fraud Detection
-- 🔗 Microservices Architecture
-- 💳 Instant Claim-Free Insurance
+- React
+- Node.js
+- Isolation Forest
+- Microservices
+- Parametric Insurance
 
 ---
 
-## 🔬 Cancer Prediction REST API
-
-Production-ready Machine Learning API
+### 🔬 Cancer Prediction REST API
 
 - Flask
 - Docker
@@ -162,9 +127,7 @@ Production-ready Machine Learning API
 
 ---
 
-## ⚡ GPU vs CPU Benchmark
-
-Deep Learning Performance Dashboard
+### ⚡ GPU vs CPU Benchmark
 
 - PyTorch
 - CUDA
@@ -172,13 +135,13 @@ Deep Learning Performance Dashboard
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -188,7 +151,17 @@ Deep Learning Performance Dashboard
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
 </p>
 
@@ -204,27 +177,7 @@ Deep Learning Performance Dashboard
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
-
-</p>
-
----
-
-# 💻 LeetCode
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Nunito"/>
-
-</p>
-
----
-
-# 💡 Quote of the Day
+# 💬 Quote of the Day
 
 <p align="center">
 
@@ -244,14 +197,14 @@ Deep Learning Performance Dashboard
 
 ---
 
-# ☕ Support Me
+# ⭐ Support My Work
 
-If you enjoy my work, consider ⭐ **starring my repositories** and connecting with me. I'm always excited to collaborate on **AI, Machine Learning, Backend Development, and Open Source** projects.
+If you like my projects, consider ⭐ starring my repositories and connecting with me!
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6C63FF,100:00C9FF&section=footer"/>
 
 </div>
