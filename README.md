@@ -1,136 +1,242 @@
-# Hi there 👋, I'm Harshini Shree Chandrasekar
+<h1 align="center">
+Hi 👋, I'm Harshini Shree C
+</h1>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h3 align="center">
+Software Engineer • AI/ML Researcher • Backend Developer • Open Source Enthusiast
+</h3>
 
-🎓 B.Tech Computer Science & Engineering Student  
-🏫 SRM Institute of Science and Technology (SRMIST)  
-💡 Passionate about AI, Machine Learning, Full Stack Development & Cloud Computing  
-🚀 Building impactful AI solutions for healthcare, cybersecurity, Fintech and automation  
-🌱 Currently learning LLMs, Agentic AI, System Design & Advanced DSA
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;AI+%7C+ML+Researcher;FastAPI+%7C+Python+Developer;Building+Intelligent+Systems;Samsung+PRISM+Research+Intern;600%2B+DSA+Problems+Solved" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Software Engineering & AI Enthusiast
-- 🤖 Interested in Artificial Intelligence, Machine Learning & Generative AI
-- ☁️ AWS & Google Cloud Learner
-- 🧠 Solving Data Structures & Algorithms problems
-- 🏆 Active Hackathon Participant
-- 📚 Always learning new technologies
+🎓 B.Tech Computer Science Engineering @ SRM Institute of Science and Technology
+
+🧠 AI Research Intern
+
+💼 Samsung PRISM Research Intern
+
+🏆 Google Big Code 2026 Top 1500
+
+💻 Backend Developer
+
+🌱 Currently learning
+
+- Agentic AI
+- Large Language Models
+- MLOps
+- Distributed Systems
+- System Design
+
+⚡ Fun Fact
+
+> I love building AI systems that solve real-world problems.
 
 ---
 
-# 🛠 Tech Stack
+# 🌐 Connect With Me
 
-### Programming Languages
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<a href="mailto:c.harshinishree@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
-### Frontend
+# 💻 Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+### Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript"/>
+</p>
 
 ### Backend
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,flask"/>
+</p>
 
----
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase"/>
+</p>
 
 ### AI / ML
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+</p>
 
----
+### Cloud & DevOps
 
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase)
-
----
-
-### Cloud & Tools
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,linux,postman"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🏥 Infinity Helix
-AI-powered medical report analysis platform using FastAPI, PostgreSQL, BioBERT, OCR, multilingual support and LLM reasoning.
+## 🩺 Infinite Helix
+
+AI-powered Medical Report Analysis Platform
+
+- OCR
+- BioBERT
+- FastAPI
+- PostgreSQL
+- Clinical Risk Prediction
 
 ---
 
-### 🛡️ Network Traffic Analyzer & Intrusion Detection System
-Real-time network monitoring dashboard with anomaly detection, packet inspection and security analytics.
+## 🛡️ InsurNova
+
+AI-driven Parametric Insurance Platform
+
+- React
+- NodeJS
+- Isolation Forest
+- Microservices
+- Fraud Detection
 
 ---
 
-### 👁️ Diabetic Retinopathy Detection
-Deep learning web application using EfficientNet for retinal disease detection.
+## 🔬 Cancer Prediction API
+
+Production-ready REST API
+
+- Flask
+- Docker
+- Gunicorn
+- Machine Learning
 
 ---
 
-### 📉 Telecom Customer Churn Prediction
-Machine Learning project using Random Forest, Gradient Boosting and Logistic Regression.
+## ⚡ GPU vs CPU Benchmark
 
----
-### 🔥Insurnova
-Real Time Insurance guard for Gig worker in trouble because of natural calamities.
+Deep Learning Performance Dashboard
 
-
-# 🏆 Achievements
-
-🥇 Hack4Health 2026 Runner-Up
-
-🏅 Samsung Prism Selected
-
-🏅 Synaptic Frontier IITM - Top 10 Finalist
-
+- PyTorch
+- CUDA
+- Streamlit
 
 ---
 
-# 📜 Certifications
+# 📈 GitHub Stats
 
-- AWS AI/ML
-- Google Cloud Skill Badges
-- NPTEL OOP using Java
-- NPTEL Database Management Systems
-- Coursera Generative AI
-- Coding Ninjas
-- Python Programming
+<p align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🌐 Connect with Me
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-[![https://www.linkedin.com/in/harshini-shree-c/](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+</p>
 
 ---
 
-## 💡 Quote
+# 🔥 GitHub Streak
 
-> "Code with purpose. Learn continuously. Build solutions that create impact."
+<p align="center">
 
-⭐ Thanks for visiting my profile!
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📈 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 💡 Quote of the Day
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ Random Dev Joke
+
+<p align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</p>
+
+---
+
+# ☕ Support Me
+
+<p align="center">
+
+⭐ Star my repositories if you find them useful!
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=120&section=footer"/>
+
+</p>
