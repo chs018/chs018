@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" width="380" src="https://media.tenor.com/XU5A0KQ4s4MAAAAC/anime-girl.gif">
+<img align="right" alt="Coding Girl" width="400" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif">
 
 ## 🚀 About Me
 
