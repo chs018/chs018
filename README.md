@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" alt="Coding Girl" width="400" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif">
+<img align="right" alt="Coding Girl" width="380" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Images/Anime%20Girl.gif">
 
 ## 🚀 About Me
 
