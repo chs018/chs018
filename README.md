@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" alt="Anime Coding Girl" width="360" src="https://media.tenor.com/UtKPTmGO9BIAAAAC/anime-computer.gif">
+<img align="right" width="380" src="https://media.tenor.com/XU5A0KQ4s4MAAAAC/anime-girl.gif">
 
 ## 🚀 About Me
 
