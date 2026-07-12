@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="Coding Girl" width="360" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Programmer Girl" width="380" src="https://media.tenor.com/dHk-LfzHrtwAAAAC/programming-computer.gif">
 
 ## 🚀 About Me
 
