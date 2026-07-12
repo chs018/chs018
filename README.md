@@ -5,27 +5,33 @@ Software Engineer • AI/ML Developer • Backend Developer • Open Source Enth
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=850&lines=AI+Researcher;Backend+Developer;Machine+Learning+Engineer;FastAPI+Developer;Building+Real-World+AI+Solutions;Always+Learning+New+Technologies!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=AI+Researcher;Machine+Learning+Developer;Backend+Developer;FastAPI+%7C+Python+Developer;Building+Real-World+AI+Solutions;Always+Learning+New+Technologies!" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
 <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social"/>
 <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=social"/>
 </p>
 
 ---
 
+<table>
+<tr>
+
+<td width="58%">
+
 # 🚀 About Me
 
-🎓 **B.Tech Computer Science Engineering**  
-📍 SRM Institute of Science and Technology
+🎓 **B.Tech Computer Science Engineering**
 
-🧠 AI Research Intern | Machine Learning Developer
+🏫 SRM Institute of Science and Technology
 
-🏆 Google Big Code 2026 – **Top 1500**
+🧠 **AI Research Intern | Machine Learning Developer**
 
-💻 Backend Developer passionate about building scalable applications and AI-powered systems.
+🏆 **Google Big Code 2026 – Top 1500**
+
+💻 **Backend Developer**
 
 🌱 **Currently Learning**
 
@@ -39,9 +45,16 @@ Software Engineer • AI/ML Developer • Backend Developer • Open Source Enth
 
 > I love building AI systems that solve real-world problems.
 
-<p align="right">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif" width="380"/>
-</p>
+</td>
+
+<td width="42%">
+
+<img align="right" alt="Coding Girl" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -50,19 +63,19 @@ Software Engineer • AI/ML Developer • Backend Developer • Open Source Enth
 <p align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:c.harshinishree@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
@@ -71,7 +84,7 @@ Software Engineer • AI/ML Developer • Backend Developer • Open Source Enth
 
 # 💻 Tech Stack
 
-### 💻 Languages
+### 👨‍💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript"/>
@@ -117,50 +130,48 @@ Software Engineer • AI/ML Developer • Backend Developer • Open Source Enth
 
 # 🚀 Featured Projects
 
-## 🩺 Infinite Helix
+### 🩺 Infinite Helix
 
-**AI-Powered Medical Report Analysis Platform**
+> AI-powered Medical Report Analysis Platform
 
-- 📝 OCR-based report extraction
-- 🧠 BioBERT-powered medical NLP
-- ⚡ FastAPI backend
-- 🗄️ PostgreSQL database
-- 📊 Clinical Risk Prediction
-
----
-
-## 🛡️ InsurNova
-
-**AI-Driven Parametric Insurance Platform**
-
-- ⚛️ React Frontend
-- 🚀 Node.js Backend
-- 🤖 Isolation Forest Fraud Detection
-- 🔗 Microservices Architecture
-- 📈 AI Risk Prediction
+- OCR
+- BioBERT
+- FastAPI
+- PostgreSQL
+- Clinical Risk Prediction
 
 ---
 
-## 🔬 Cancer Prediction REST API
+### 🛡️ InsurNova
 
-**Production-Ready Machine Learning API**
+> AI-driven Parametric Insurance Platform
+
+- React
+- Node.js
+- Isolation Forest
+- Microservices
+- Fraud Detection
+
+---
+
+### 🔬 Cancer Prediction REST API
+
+> Production-ready ML REST API
 
 - Flask
 - Docker
 - Gunicorn
 - Machine Learning
-- REST API
 
 ---
 
-## ⚡ GPU vs CPU Benchmark
+### ⚡ GPU vs CPU Benchmark
 
-**Deep Learning Performance Dashboard**
+> Deep Learning Performance Dashboard
 
 - PyTorch
 - CUDA
 - Streamlit
-- Performance Visualization
 
 ---
 
@@ -186,27 +197,27 @@ Software Engineer • AI/ML Developer • Backend Developer • Open Source Enth
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=7"/>
 
 </p>
 
 ---
 
-# 💻 LeetCode Stats
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+
+</p>
+
+---
+
+# 💻 LeetCode
 
 <p align="center">
 
@@ -238,9 +249,9 @@ Software Engineer • AI/ML Developer • Backend Developer • Open Source Enth
 
 # ☕ Support Me
 
-If you like my work, consider ⭐ starring my repositories.
+⭐ If you like my work, consider starring my repositories!
 
-I enjoy building open-source AI and backend projects that solve real-world problems.
+Let's connect and collaborate on AI, Backend Development, and Open Source projects.
 
 ---
 
