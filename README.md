@@ -1,20 +1,22 @@
 <div align="center">
 
-# Hi 👋, I'm Harshini Shree C
+# Hi 👋, I'm **Harshini Shree C**
 
-### Software Engineer • AI/ML Developer • Backend Developer • Open Source Enthusiast
+### 💻 Software Engineer • 🤖 AI/ML Developer • ⚡ Backend Developer • 🌟 Open Source Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+Researcher;Machine+Learning+Developer;Backend+Developer;FastAPI+Developer;Building+Real-World+AI+Solutions;Always+Learning+New+Technologies!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=AI+Researcher;Machine+Learning+Developer;Backend+Developer;FastAPI+Developer;Building+Real-World+AI+Solutions;Always+Learning+New+Technologies!" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<img align="right" alt="Anime Coding Girl" width="380" src="https://media.tenor.com/UtKPTmGO9BIAAAAC/anime-computer.gif">
+<img align="right" alt="Anime Coding Girl" width="360" src="https://media.tenor.com/UtKPTmGO9BIAAAAC/anime-computer.gif">
 
 ## 🚀 About Me
 
@@ -26,7 +28,7 @@
 
 🏆 **Google Big Code 2026 – Top 1500**
 
-💻 **Backend Developer**
+💻 Passionate Backend Developer building scalable AI-powered applications.
 
 🌱 **Currently Learning**
 
@@ -36,14 +38,14 @@
 - ☁️ Distributed Systems
 - 🏗️ System Design
 
-💡 **Interests**
+💡 **Areas of Interest**
 
 - Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Natural Language Processing
 - Backend Engineering
 - Open Source
-- Computer Vision
-- NLP
-- System Design
 
 ⚡ **Fun Fact**
 
@@ -62,7 +64,7 @@
 </a>
 
 <a href="mailto:c.harshinishree@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
@@ -110,7 +112,7 @@
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/BioBERT-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BioBERT-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge"/>
 </p>
@@ -127,25 +129,31 @@
 
 ## 🩺 Infinite Helix
 
-- 📝 OCR-based Medical Report Analysis
-- 🧠 BioBERT Medical NLP
+AI-powered Medical Report Analysis Platform
+
+- 📄 OCR-based medical report extraction
+- 🧠 BioBERT-powered NLP
 - ⚡ FastAPI Backend
 - 🗄 PostgreSQL
 - 📊 Clinical Risk Prediction
 
 ---
 
-## 🛡 InsurNova
+## 🛡️ InsurNova
 
-- ⚛ React
-- 🚀 Node.js
-- 🤖 Isolation Forest
-- 🔗 Microservices
-- 💳 Parametric Insurance
+AI-driven Parametric Insurance Platform
+
+- ⚛️ React Frontend
+- 🚀 Node.js Backend
+- 🤖 Isolation Forest Fraud Detection
+- 🔗 Microservices Architecture
+- 💳 Instant Claim-Free Insurance
 
 ---
 
-## 🔬 Cancer Prediction API
+## 🔬 Cancer Prediction REST API
+
+Production-ready Machine Learning API
 
 - Flask
 - Docker
@@ -155,6 +163,8 @@
 ---
 
 ## ⚡ GPU vs CPU Benchmark
+
+Deep Learning Performance Dashboard
 
 - PyTorch
 - CUDA
@@ -166,9 +176,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -178,7 +188,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -198,7 +208,17 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+
+</p>
+
+---
+
+# 💻 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Nunito"/>
 
 </p>
 
@@ -226,9 +246,9 @@
 
 # ☕ Support Me
 
-⭐ If you like my work, consider starring my repositories!
+If you enjoy my work, consider ⭐ **starring my repositories** and connecting with me. I'm always excited to collaborate on **AI, Machine Learning, Backend Development, and Open Source** projects.
 
-Let's build amazing AI applications together.
+---
 
 <div align="center">
 
