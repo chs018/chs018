@@ -3,7 +3,7 @@ Hi 👋, I'm Harshini Shree C
 </h1>
 
 <h3 align="center">
-Software Engineer • AI/ML Researcher • Backend Developer • Open Source Enthusiast
+Software Engineer • AI/ML Developer • Backend Developer • Open Source Enthusiast
 </h3>
 
 <p align="center">
@@ -16,9 +16,7 @@ Software Engineer • AI/ML Researcher • Backend Developer • Open Source Ent
 
 🎓 B.Tech Computer Science Engineering @ SRM Institute of Science and Technology
 
-🧠 AI Research Intern
-
-💼 Samsung PRISM Research Intern
+🧠 AI Research Intern,ML Developer
 
 🏆 Google Big Code 2026 Top 1500
 
@@ -140,68 +138,6 @@ Deep Learning Performance Dashboard
 - PyTorch
 - CUDA
 - Streamlit
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 📈 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
 
 ---
 
