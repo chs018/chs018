@@ -18,8 +18,6 @@
 
 </div>
 
-> **💡 Download your favorite coding girl GIF and save it as `assets/coding-girl.gif`.**
-> This is the most reliable approach because GitHub sometimes blocks external GIFs.
 
 ---
 
