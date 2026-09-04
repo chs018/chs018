@@ -14,7 +14,7 @@
 
 ### 👩🏻‍💻 Coding Girl
 
-<img width="420" src="./assets/coding-girl.gif">
+<img width="254" height="245" alt="image" src="https://github.com/user-attachments/assets/fdfd16da-5f5e-4d21-a6d1-37f25596415c" />
 
 </div>
 
